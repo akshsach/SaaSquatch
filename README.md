@@ -1,6 +1,6 @@
 # SaaSquatch Lead Filtering Dashboard
 
-> Caprae Capital AI-Readiness Pre-Screening Challenge Submission  
+> Caprae Capital Challenge Submission  
 > Built in ~2 hours for practical post-acquisition lead qualification
 
 ---
@@ -23,7 +23,7 @@ Instead of replicating scraping functionality, this solution emphasizes efficien
 
 ---
 
-## 🛠Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the repo or download the files
 
