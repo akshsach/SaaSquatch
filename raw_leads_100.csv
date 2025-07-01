@@ -1,0 +1,101 @@
+Name,Email,Job Title,Company,Domain,LinkedIn
+Tina Kim,tina.kim@techcorp.com,Product Manager,TechCorp,techcorp.com,https://www.linkedin.com/in/tinakim
+Mona Brown,mona.brown@cloudnova.com,Sales Director,TechCorp,cloudnova.com,https://www.linkedin.com/in/monabrown
+Frank Davis,frank.davis@betasoft.net,Machine Learning Lead,CodeBase,betasoft.net,https://www.linkedin.com/in/frankdavis
+Henry Martinez,henry.martinez@innovatex.com,CTO,GrowthHackers,innovatex.com,https://www.linkedin.com/in/henrymartinez
+Clara Lee,clara.lee@betasoft.net,Software Engineer,CodeBase,betasoft.net,https://www.linkedin.com/in/claralee
+Grace Wang,grace.wang@startup.io,Growth Marketer,QuantumLeap,startup.io,https://www.linkedin.com/in/gracewang
+Jack Lee,jack.lee@gmail.com,Software Engineer,CodeBase,gmail.com,https://www.linkedin.com/in/jacklee
+Steve Johnson,steve.johnson@codebase.dev,Growth Marketer,GrowthHackers,codebase.dev,https://www.linkedin.com/in/stevejohnson
+Steve Brown,steve.brown@gmail.com,Marketing Intern,Startup.io,gmail.com,https://www.linkedin.com/in/stevebrown
+Clara Davis,clara.davis@codebase.dev,Head of Product,TechCorp,codebase.dev,https://www.linkedin.com/in/claradavis
+Alice Davis,alice.davis@betasoft.net,Customer Success Manager,CloudNova,betasoft.net,https://www.linkedin.com/in/alicedavis
+Nate Brown,nate.brown@cloudnova.com,Product Manager,BetaSoft,cloudnova.com,https://www.linkedin.com/in/natebrown
+Grace Wang,grace.wang@growthhackers.co,Growth Marketer,AlphaDev,growthhackers.co,https://www.linkedin.com/in/gracewang
+Rose Liu,rose.liu@quantumleap.io,CTO,CloudNova,quantumleap.io,https://www.linkedin.com/in/roseliu
+Alice Lee,alice.lee@codebase.dev,Sales Director,QuantumLeap,codebase.dev,https://www.linkedin.com/in/alicelee
+Quinn Davis,quinn.davis@hotmail.com,Head of Product,BetaSoft,hotmail.com,https://www.linkedin.com/in/quinndavis
+Ivy Martinez,ivy.martinez@gmail.com,CEO,AlphaDev,gmail.com,https://www.linkedin.com/in/ivymartinez
+Clara Liu,clara.liu@gmail.com,Head of Product,InnovateX,gmail.com,https://www.linkedin.com/in/claraliu
+Henry Davis,henry.davis@innovatex.com,Sales Director,BetaSoft,innovatex.com,https://www.linkedin.com/in/henrydavis
+Bob Johnson,bob.johnson@innovatex.com,CEO,Startup.io,innovatex.com,https://www.linkedin.com/in/bobjohnson
+Mona Lee,mona.lee@cloudnova.com,Marketing Intern,BetaSoft,cloudnova.com,https://www.linkedin.com/in/monalee
+Leo Liu,leo.liu@hotmail.com,Growth Marketer,GrowthHackers,hotmail.com,https://www.linkedin.com/in/leoliu
+Nate Johnson,nate.johnson@yahoo.com,Head of Product,QuantumLeap,yahoo.com,https://www.linkedin.com/in/natejohnson
+Grace Clark,grace.clark@gmail.com,Software Engineer,InnovateX,gmail.com,https://www.linkedin.com/in/graceclark
+Leo Clark,leo.clark@betasoft.net,CTO,CloudNova,betasoft.net,https://www.linkedin.com/in/leoclark
+Steve Clark,steve.clark@codebase.dev,CEO,AlphaDev,codebase.dev,https://www.linkedin.com/in/steveclark
+Alice Lee,alice.lee@betasoft.net,Sales Director,CloudNova,betasoft.net,https://www.linkedin.com/in/alicelee
+Nate Davis,nate.davis@gmail.com,Software Engineer,CodeBase,gmail.com,https://www.linkedin.com/in/natedavis
+Tina Kim,tina.kim@hotmail.com,Machine Learning Lead,GrowthHackers,hotmail.com,https://www.linkedin.com/in/tinakim
+Mona Kim,mona.kim@startup.io,Product Manager,InnovateX,startup.io,https://www.linkedin.com/in/monakim
+Frank Lee,frank.lee@hotmail.com,Software Engineer,Startup.io,hotmail.com,https://www.linkedin.com/in/franklee
+Karen Martinez,karen.martinez@hotmail.com,CTO,TechCorp,hotmail.com,https://www.linkedin.com/in/karenmartinez
+Alice Wang,alice.wang@techcorp.com,Marketing Intern,CloudNova,techcorp.com,https://www.linkedin.com/in/alicewang
+Paul Davis,paul.davis@startup.io,Growth Marketer,AlphaDev,startup.io,https://www.linkedin.com/in/pauldavis
+Olive Wang,olive.wang@betasoft.net,CEO,InnovateX,betasoft.net,https://www.linkedin.com/in/olivewang
+Quinn Liu,quinn.liu@startup.io,CTO,QuantumLeap,startup.io,invalid-link
+Alice Kim,alice.kim@growthhackers.co,Head of Product,GrowthHackers,growthhackers.co,https://www.linkedin.com/in/alicekim
+Paul Martinez,paul.martinez@nextgenai.ai,CTO,GrowthHackers,nextgenai.ai,https://www.linkedin.com/in/paulmartinez
+Rose Johnson,rose.johnson@gmail.com,Machine Learning Lead,NextGenAI,gmail.com,https://www.linkedin.com/in/rosejohnson
+Ivy Clark,ivy.clark@codebase.dev,CEO,NextGenAI,codebase.dev,https://www.linkedin.com/in/ivyclark
+Frank Davis,frank.davis@hotmail.com,Machine Learning Lead,NextGenAI,hotmail.com,https://www.linkedin.com/in/frankdavis
+Ivy Martinez,ivy.martinez@betasoft.net,Sales Director,TechCorp,betasoft.net,https://www.linkedin.com/in/ivymartinez
+Steve Smith,steve.smith@techcorp.com,Growth Marketer,NextGenAI,techcorp.com,https://www.linkedin.com/in/stevesmith
+Jack Johnson,jack.johnson@startup.io,CTO,BetaSoft,startup.io,https://www.linkedin.com/in/jackjohnson
+Mona Martinez,mona.martinez@yahoo.com,Head of Product,CloudNova,yahoo.com,https://www.linkedin.com/in/monamartinez
+Bob Lee,bob.lee@yahoo.com,Sales Director,TechCorp,yahoo.com,https://www.linkedin.com/in/boblee
+Henry Smith,henry.smith@growthhackers.co,Sales Director,GrowthHackers,growthhackers.co,https://www.linkedin.com/in/henrysmith
+Leo Smith,leo.smith@quantumleap.io,Machine Learning Lead,Startup.io,quantumleap.io,https://www.linkedin.com/in/leosmith
+Nate Smith,nate.smith@growthhackers.co,Product Manager,QuantumLeap,growthhackers.co,https://www.linkedin.com/in/natesmith
+Mona Lee,mona.lee@gmail.com,Growth Marketer,BetaSoft,gmail.com,https://www.linkedin.com/in/monalee
+Alice Lee,alice.lee@codebase.dev,Product Manager,CodeBase,codebase.dev,https://www.linkedin.com/in/alicelee
+Frank Clark,frank.clark@gmail.com,Growth Marketer,BetaSoft,gmail.com,https://www.linkedin.com/in/frankclark
+Tina Kim,tina.kim@betasoft.net,Growth Marketer,TechCorp,betasoft.net,https://www.linkedin.com/in/tinakim
+Clara Martinez,clara.martinez@yahoo.com,CTO,CodeBase,yahoo.com,invalid-link
+Olive Clark,olive.clark@alphadev.org,Sales Director,Startup.io,alphadev.org,https://www.linkedin.com/in/oliveclark
+Alice Johnson,alice.johnson@betasoft.net,Marketing Intern,CloudNova,betasoft.net,https://www.linkedin.com/in/alicejohnson
+Rose Clark,rose.clark@quantumleap.io,Software Engineer,CloudNova,quantumleap.io,https://www.linkedin.com/in/roseclark
+Steve Martinez,steve.martinez@cloudnova.com,Marketing Intern,BetaSoft,cloudnova.com,https://www.linkedin.com/in/stevemartinez
+Henry Liu,henry.liu@hotmail.com,CTO,TechCorp,hotmail.com,https://www.linkedin.com/in/henryliu
+Leo Kim,leo.kim@quantumleap.io,CEO,AlphaDev,quantumleap.io,https://www.linkedin.com/in/leokim
+Clara Davis,clara.davis@cloudnova.com,Software Engineer,Startup.io,cloudnova.com,invalid-link
+Clara Johnson,clara.johnson@gmail.com,Product Manager,NextGenAI,gmail.com,https://www.linkedin.com/in/clarajohnson
+Jack Lee,jack.lee@gmail.com,CTO,TechCorp,gmail.com,https://www.linkedin.com/in/jacklee
+Clara Wang,clara.wang@betasoft.net,Product Manager,Startup.io,betasoft.net,https://www.linkedin.com/in/clarawang
+Nate Liu,nate.liu@alphadev.org,CEO,InnovateX,alphadev.org,invalid-link
+Mona Martinez,mona.martinez@techcorp.com,Customer Success Manager,CodeBase,techcorp.com,https://www.linkedin.com/in/monamartinez
+Henry Wang,henry.wang@quantumleap.io,Product Manager,InnovateX,quantumleap.io,https://www.linkedin.com/in/henrywang
+Alice Johnson,alice.johnson@growthhackers.co,CEO,QuantumLeap,growthhackers.co,https://www.linkedin.com/in/alicejohnson
+Alice Wang,alice.wang@startup.io,Growth Marketer,NextGenAI,startup.io,invalid-link
+Clara Clark,clara.clark@nextgenai.ai,Sales Director,TechCorp,nextgenai.ai,https://www.linkedin.com/in/claraclark
+Tina Smith,tina.smith@startup.io,Marketing Intern,QuantumLeap,startup.io,https://www.linkedin.com/in/tinasmith
+Mona Liu,mona.liu@codebase.dev,Head of Product,CloudNova,codebase.dev,https://www.linkedin.com/in/monaliu
+David Johnson,david.johnson@growthhackers.co,CTO,NextGenAI,growthhackers.co,https://www.linkedin.com/in/davidjohnson
+Olive Kim,olive.kim@yahoo.com,Sales Director,TechCorp,yahoo.com,https://www.linkedin.com/in/olivekim
+Henry Clark,henry.clark@betasoft.net,Software Engineer,BetaSoft,betasoft.net,https://www.linkedin.com/in/henryclark
+Quinn Lee,quinn.lee@growthhackers.co,Marketing Intern,GrowthHackers,growthhackers.co,https://www.linkedin.com/in/quinnlee
+Ella Brown,ella.brown@techcorp.com,CTO,CloudNova,techcorp.com,https://www.linkedin.com/in/ellabrown
+David Clark,david.clark@growthhackers.co,Sales Director,QuantumLeap,growthhackers.co,https://www.linkedin.com/in/davidclark
+Quinn Clark,quinn.clark@innovatex.com,Product Manager,InnovateX,innovatex.com,https://www.linkedin.com/in/quinnclark
+Grace Martinez,grace.martinez@alphadev.org,Machine Learning Lead,GrowthHackers,alphadev.org,https://www.linkedin.com/in/gracemartinez
+Paul Lee,paul.lee@innovatex.com,Head of Product,GrowthHackers,innovatex.com,https://www.linkedin.com/in/paullee
+Nate Clark,nate.clark@hotmail.com,Growth Marketer,NextGenAI,hotmail.com,https://www.linkedin.com/in/nateclark
+Ella Davis,ella.davis@nextgenai.ai,CEO,TechCorp,nextgenai.ai,invalid-link
+Nate Johnson,nate.johnson@codebase.dev,CEO,BetaSoft,codebase.dev,https://www.linkedin.com/in/natejohnson
+Karen Davis,karen.davis@hotmail.com,Growth Marketer,QuantumLeap,hotmail.com,https://www.linkedin.com/in/karendavis
+Henry Wang,henry.wang@innovatex.com,Marketing Intern,QuantumLeap,innovatex.com,https://www.linkedin.com/in/henrywang
+Rose Clark,rose.clark@alphadev.org,CTO,GrowthHackers,alphadev.org,https://www.linkedin.com/in/roseclark
+Henry Brown,henry.brown@innovatex.com,Customer Success Manager,NextGenAI,innovatex.com,invalid-link
+Rose Liu,rose.liu@hotmail.com,CEO,GrowthHackers,hotmail.com,https://www.linkedin.com/in/roseliu
+Olive Martinez,olive.martinez@techcorp.com,Customer Success Manager,AlphaDev,techcorp.com,https://www.linkedin.com/in/olivemartinez
+Paul Kim,paul.kim@growthhackers.co,Head of Product,GrowthHackers,growthhackers.co,https://www.linkedin.com/in/paulkim
+Quinn Lee,quinn.lee@startup.io,Machine Learning Lead,NextGenAI,startup.io,https://www.linkedin.com/in/quinnlee
+Nate Davis,nate.davis@alphadev.org,Marketing Intern,CloudNova,alphadev.org,https://www.linkedin.com/in/natedavis
+Ivy Lee,ivy.lee@codebase.dev,Product Manager,AlphaDev,codebase.dev,https://www.linkedin.com/in/ivylee
+Grace Kim,grace.kim@startup.io,Marketing Intern,QuantumLeap,startup.io,https://www.linkedin.com/in/gracekim
+Clara Clark,clara.clark@startup.io,Marketing Intern,CloudNova,startup.io,invalid-link
+Quinn Brown,quinn.brown@alphadev.org,Product Manager,Startup.io,alphadev.org,https://www.linkedin.com/in/quinnbrown
+Jack Wang,jack.wang@innovatex.com,CTO,Startup.io,innovatex.com,https://www.linkedin.com/in/jackwang
+Frank Liu,frank.liu@techcorp.com,Sales Director,InnovateX,techcorp.com,https://www.linkedin.com/in/frankliu
+Jack Johnson,jack.johnson@quantumleap.io,Product Manager,AlphaDev,quantumleap.io,https://www.linkedin.com/in/jackjohnson
